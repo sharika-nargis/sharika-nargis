@@ -1,8 +1,3 @@
-### StandWithPalestine 🇵🇸  
-Lives lost 64656 • Children killed 20000 • Women killed 12500 • Journalists killed 248
-
----
-
 ~ Hello, the Human Race 👋  
 
 I’m **Sharika Nargis**, currently a **Software Quality Assurance (SQA) Engineer at Tulip Tech**. Previously, I worked at **atB Lab Limited** and **BJIT Limited**. I completed my **B.Sc. in Computer Science & Engineering from United International University (UIU)**.  
