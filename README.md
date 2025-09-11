@@ -1,17 +1,17 @@
 ~ Hello, the Human Race 👋  
 
-I’m **Sharika Nargis**, currently a **Software Quality Assurance (SQA) Engineer at Tulip Tech**. Previously, I worked at **atB Lab Limited** and **BJIT Limited**. I completed my **B.Sc. in Computer Science & Engineering from United International University (UIU)**.  
+I’m **Sharika Nargis**, currently a **Software Quality Assurance (SQA) Engineer** at [Tulip Tech](https://tulip-tech.com/). Previously, I worked at [atB Lab Limited](https://atb-jobs.com/) and [BJIT Limited](https://bjitgroup.com/). I completed my **B.Sc** in **Computer Science & Engineering** from [United International University (UIU)](https://www.uiu.ac.bd/).  
 
-My research and work interests lie in **software testing, automation, API quality assurance, and trustworthy AI**. In particular, I am exploring **metamorphic testing for machine learning systems** and **advanced test automation frameworks**.  
+My research and work interests lie in **Software Testing**, **Automation**, **API Quality Assurance**, and **Trustworthy AI**. In particular, I am exploring **Metamorphic Testing for Machine Learning Systems** and **Advanced Test Automation Frameworks**.  
 
-🔭 I’m currently working on **automated testing frameworks with Selenium, Robot Framework, Playwright, and Postman**, and integrating CI/CD pipelines for QA processes.  
-🌱 I’m currently learning **metamorphic testing techniques, advanced automation strategies, and ML model testing**.  
-💼 You can reach out to me for **QA automation roles, software testing collaborations, or PhD/MS research opportunities**.  
-⚡ Fun Fact: I enjoy **mentoring junior QA engineers, exploring Japan’s hidden gems, and trying new coffee blends ☕**.  
-💬 Ask me about anything related to **test automation, API quality, ML model testing, or career growth in QA**. You can reach me via **email 📫 or LinkedIn 🔗**, and if you want to chat about coffee or travel, I’m game too!  
+🔭 I’m currently working on **Automated Testing Frameworks** with **Selenium**, **Robot Framework**, and **Postman**, and **Integrating CI/CD pipelines** for QA processes.  
+🌱 I’m currently learning **Metamorphic Testing Techniques**, **Advanced Automation Strategies**, and **ML model testing**.  
+💼 You can reach out to me for **QA Automation Roles**, **Software Testing Collaborations**, or **PhD/MS research opportunities**.  
+⚡ Fun Fact: I enjoy **Mentoring Junior QA Engineers**, **Exploring Japan’s Hidden Gems**, and **Trying New Coffee Blends ☕**.  
+💬 Ask me about anything related to **Test Automation**, **API Quality**, **ML Model Testing**, or **Career Growth in QA**. You can reach me via [Email](sharikanargis25@gmail.com) 📫 or [LinkedIn](https://www.linkedin.com/in/sharika-nargis/) 🔗, and if you want to chat about coffee or travel, I’m game too!  
 
 🌍 Travel Goals & Hobbies:  
-- Exploring **Japan’s hidden gems** and local cafés ☕  
+- Exploring **Japan’s Hidden Gems** and **Local Cafés** ☕  
 - Trekking: **Next goal → Mount Fuji ⛰️**  
 - Traveling around **Asia and beyond** ✈️  
  
@@ -19,10 +19,9 @@ My research and work interests lie in **software testing, automation, API qualit
 🛠️ My Tech Stack:  
 
 **Languages:** Java (3+ yrs), Python, HTML, CSS  
-**Testing / Automation:** Selenium, Robot Framework, TestNG, Postman  
-**Databases:** MySQL, PostgreSQL  
-**CI/CD & DevOps:** GitHub Actions, Jenkins  
-**Other Tools:** Git, Docker, Linux, Eclipse, PyCharm  
+**Testing / Automation:** Selenium, Robot Framework, TestNG, Postman    
+**CI/CD & DevOps:** GitHub Actions  
+**Other Tools:** Git, Linux, Eclipse, PyCharm  
 
 📈 GitHub Stats  
 
