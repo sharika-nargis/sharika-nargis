@@ -23,8 +23,4 @@ My research and work interests lie in **Software Testing**, **Automation**, **AP
 **CI/CD & DevOps:** GitHub Actions  
 **Other Tools:** Git, Linux, Eclipse, PyCharm  
 
-📈 GitHub Stats  
-
-![Sharika's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharika-nargis&show_icons=true&theme=radical)  
-![Sharika's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharika-nargis&layout=compact&theme=radical)  
 
